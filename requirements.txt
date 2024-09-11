@@ -1,0 +1,7 @@
+requests
+bs4
+pandas
+fake_useragent
+tqdm
+sqlalchemy
+py7zr
