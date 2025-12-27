@@ -1,3 +1,7 @@
+## 迁移
+
+已迁移到 [Chinese Lost Media  组织](https://github.com/chinese-lost-media) 方便管理
+
 ## CCTV-PROGRAMS
 
 该项目爬取了可以从网络中可寻找到的CCTV央视网历史节目单，包括节目名称、播出时间、播出频道等信息。
